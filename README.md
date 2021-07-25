@@ -6,6 +6,15 @@ This weeks challenge was to build a back end for the e commerce website. I will 
 
 I have created a video that will give the visual to show the functionality and display all of the criteria.
 
+# Running Program 
+- NPM Install
+- NPM Install Dotenv
+- NPM Install Express
+- NPM Install mysql2
+- NPM Install Sequelize
+- mysql -u root -p ( this pulls the database up from MYSQL )
+- npm run seeds
+- node server.js
 
 # User Story 
 
